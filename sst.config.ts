@@ -4,7 +4,7 @@ import { NextjsSite } from "sst/constructs";
 export default {
   config(_input) {
     return {
-      name: "bootcamp4",
+      name: "bootcamp3web",
       region: "us-east-1",
     };
   },
